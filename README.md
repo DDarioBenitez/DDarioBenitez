@@ -1,33 +1,38 @@
+
+---
+
+## 🔹 Propuesta 3 – Estilo Startup
+```md
 <!-- Banner -->
-<img src="banner.svg" alt="Banner" />
+<img src="BANNER_URL_AQUI" alt="banner" />
 
-<h1 align="center">👨‍💻 Dario Benitez</h1>
-<p align="center">
-  <b>Fullstack Developer | JavaScript | TypeScript | Java</b>
-</p>
+# 🚀 Dario Benitez – Fullstack Developer
 
----
-
-### 🌟 Sobre mí
-Soy un desarrollador fullstack con experiencia en proyectos reales y producción, trabajando con **Node.js, React, Next.js, NestJS y SpringBoot**.  
-Me encanta enfrentar desafíos técnicos y crear soluciones escalables.
+Desarrollo **apps web modernas** con foco en rendimiento, escalabilidad y experiencia de usuario.  
+Trabajo principalmente con **JavaScript, TypeScript y Java**, aplicando buenas prácticas y arquitectura limpia.  
 
 ---
 
-### 🚀 Experiencia
-- 🏠 **HelloFlatmate** – Fullstack Developer (2024 – 2025)  
-  Desarrollo de plataforma web para alquiler de habitaciones (React, Next.js, Sequelize, PostgreSQL, Firebase, Socket.IO).  
-
-- 🚐 **Viaje Seguro** – Fullstack Developer (2025)  
-  Dashboards, autenticación con OAuth, reservas y pagos con Stripe (NestJS, Prisma, React, TypeScript).  
+## 🔧 Skills
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, NestJS, SpringBoot  
+- **Databases:** PostgreSQL, MySQL, Sequelize, Prisma  
+- **Tools:** Firebase, Stripe, Socket.IO, Git  
 
 ---
 
-### 🛠️ Stack Tecnológico
-```javascript
-const skills = {
-  frontend: ["React", "Next.js", "Tailwind"],
-  backend: ["Node.js", "NestJS", "SpringBoot"],
-  databases: ["PostgreSQL", "MySQL"],
-  tools: ["Socket.IO", "Firebase", "Stripe"]
-}
+## 📌 Proyectos Destacados
+- 🏠 [HelloFlatmate](http://www.helloflatmate.com/) – Plataforma de alquiler con contratos, facturas y chat en tiempo real.  
+- 🚐 Viaje Seguro – Reservas, dashboards y pagos online.  
+- 💳 Billetera Virtual – API con MercadoPago.  
+
+---
+
+## 📊 Mis métricas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDarioBenitez&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dar%C3%ADo-dami%C3%A1n-ben%C3%ADtez/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DDarioBenitez)

@@ -1,7 +1,3 @@
-<!-- Header con gradiente animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Dario%20Benitez&fontSize=40&fontColor=fff&animation=fadeIn" />
-</p>
 
 <!-- Banner propio -->
 <p align="center">
@@ -50,13 +46,6 @@
 ## 📊 Lenguajes usados
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDarioBenitez&layout=compact&theme=radical&langs_count=8" alt="Lenguajes más usados" />
-</p>
-
----
-
-<!-- Footer con gradiente -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=20&fontColor=fff" />
 </p>
 
 ---

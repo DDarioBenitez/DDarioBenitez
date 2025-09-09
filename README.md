@@ -45,16 +45,11 @@
 ## 📊 Lenguajes y Commits 
 
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDarioBenitez&layout=compact&theme=radical&langs_count=8" alt="Lenguajes más usados" />
-    </td>
-    <td align="right" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DDarioBenitez&theme=radical" alt="Lenguajes por commits" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDarioBenitez&layout=compact&theme=radical&langs_count=8" alt="Lenguajes más usados" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DDarioBenitez&theme=radical" alt="Lenguajes por commits" />
+</p>
 
 ---
 

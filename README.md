@@ -1,9 +1,14 @@
-<!-- Banner -->
+<!-- Header con gradiente animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Dario%20Benitez&fontSize=40&fontColor=fff&animation=fadeIn" />
+</p>
+
+<!-- Banner propio -->
 <p align="center">
   <img src="banner.svg" alt="Banner" />
 </p>
 
-<!-- Typing animation -->
+<!-- Animación typing -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Node.js+%7C+React+%7C+Next.js+%7C+NestJS+%7C+SpringBoot;Arquitectura%2C+escalabilidad+y+UX" alt="Typing SVG" />
 </p>
@@ -37,7 +42,8 @@
 - 🏠 [HelloFlatmate](http://www.helloflatmate.com/) – Gestión de alquileres, chat en tiempo real y documentos.  
 - 🚐 [Viaje Seguro](https://viajeseguro.site/) – Reservas online y paneles de gestión.  
 - 💳 Billetera Virtual – API con MercadoPago (backend).  
-- 👕 Tienda Online – Java + SpringBoot + Vue.js + PostgreSQL.
+- 👕 Tienda Online – Java + SpringBoot + Vue.js + PostgreSQL.  
+- 🌐 [Portafolio](https://dario-benitez-dev.vercel.app/) – Mi sitio personal.
 
 ---
 
@@ -48,7 +54,14 @@
 
 ---
 
+<!-- Footer con gradiente -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=20&fontColor=fff" />
+</p>
+
+---
+
 ## 🤝 Contacto
-- Portfolio <a href="https://dario-benitez-dev.vercel.app/">/dario-benitez-dev.vercel.app</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/dar%C3%ADo-dami%C3%A1n-ben%C3%ADtez/">/darío-damián-benítez</a>  
-- GitHub: <a href="https://github.com/DDarioBenitez">@DDarioBenitez</a>
+- 🌐 Portfolio: [dario-benitez-dev.vercel.app](https://dario-benitez-dev.vercel.app)  
+- 💼 LinkedIn: [darío-damián-benítez](https://www.linkedin.com/in/dar%C3%ADo-dami%C3%A1n-ben%C3%ADtez/)  
+- 🖥 GitHub: [@DDarioBenitez](https://github.com/DDarioBenitez)

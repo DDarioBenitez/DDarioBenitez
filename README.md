@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="BANNER_URL_AQUI" alt="banner" />
+<img src="banner.svg" alt="banner" />
 
 # 👋 Hola, soy Dario Benitez
 

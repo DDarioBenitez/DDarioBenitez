@@ -1,4 +1,3 @@
-
 <!-- Banner propio -->
 <p align="center">
   <img src="banner.svg" alt="Banner" />
@@ -43,10 +42,20 @@
 
 ---
 
-## 📊 Lenguajes usados
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDarioBenitez&layout=compact&theme=radical&langs_count=8" alt="Lenguajes más usados" />
-</p>
+## 📊 Lenguajes (barras) y Commits (barras)
+
+<table>
+  <tr>
+    <td valign="top" align="center">
+      <strong>Lenguajes usados</strong><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDarioBenitez&layout=compact&theme=radical&langs_count=8" alt="Lenguajes más usados" />
+    </td>
+    <td valign="top" align="center">
+      <strong>Lenguajes por commits</strong><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DDarioBenitez&theme=radical" alt="Lenguajes por commits" />
+    </td>
+  </tr>
+</table>
 
 ---
 

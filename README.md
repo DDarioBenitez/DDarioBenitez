@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Node.js+%7C+React+%7C+Next.js+%7C+NestJS+%7C+SpringBoot;Enfoque+en+arquitectura%2C+escalabilidad+y+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Node.js+%7C+React+%7C+Next.js+%7C+NestJS+%7C+SpringBoot;Arquitectura%2C+escalabilidad+y+UX" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hola, soy Dario Benitez</h1>
@@ -21,7 +21,7 @@
 - **HelloFlatmate** · Fullstack Developer (2024 – 2025)  
   Plataforma de alquiler de habitaciones: React/Next.js, Sequelize/PostgreSQL, Firebase (Auth/Storage), Socket.IO, contratos y facturas en PDF.
 - **Viaje Seguro** · Fullstack Developer (2025)  
-  Dashboards, OAuth, reservas de asiento y pagos con Stripe. Stack: NestJS + Prisma + React + TypeScript.
+  Dashboards, OAuth, reservas de asiento y pagos con Stripe (NestJS + Prisma + React + TypeScript).
 
 ---
 
@@ -41,24 +41,17 @@
 
 ---
 
-## 📊 Métricas y Lenguajes
-
-<!-- Donut (rueda) de lenguajes por repos -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DDarioBenitez&theme=tokyonight" alt="Lenguajes por repos (donut)" />
+## 📊 Lenguajes (ruedas modernas)
+<p align="center" title="Lenguajes por repositorio">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DDarioBenitez&theme=radical"
+    alt="Rueda de lenguajes por repos" />
 </p>
 
-<!-- Donut de lenguajes por commits (opcional) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DDarioBenitez&theme=tokyonight" alt="Lenguajes por commits (donut)" />
-</p>
-
-<!-- Stats y racha -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DDarioBenitez&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DDarioBenitez&theme=tokyonight" alt="Racha de contribuciones" />
+<p align="center" title="Lenguajes por commits">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DDarioBenitez&theme=radical"
+    alt="Rueda de lenguajes por commits" />
 </p>
 
 ---

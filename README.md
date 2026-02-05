@@ -5,7 +5,7 @@
 
 <!-- Animación typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Node.js+%7C+React+%7C+Next.js+%7C+NestJS+%7C+SpringBoot;Arquitectura%2C+escalabilidad+y+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Node.js+%7C+React+%7C+Next.js+%7C+NestJS+%7C+n8n+%7C+SpringBoot;Arquitectura%2C+escalabilidad+y+UX" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hola, soy Dario Benitez</h1>
@@ -22,13 +22,18 @@
   Plataforma de alquiler de habitaciones: React/Next.js, Sequelize/PostgreSQL, Firebase (Auth/Storage), Socket.IO, contratos y facturas en PDF.
 - **Viaje Seguro** · Fullstack Developer (2025)  
   Dashboards, OAuth, reservas de asiento y pagos con Stripe (NestJS + Prisma + React + TypeScript).
+- **Nexiafy** · Fullstack Developer (2025 – 2026)  
+  Plataforma de agentes conversacionales IA: NestJS, Prisma, PostgreSQL, Zadarma API, Socket.IO, Retell AI, React Flow, n8n, React, Vite, Tailwind CSS.
 
 ---
 
 ## 🛠️ Tecnologías
-**Frontend:** React, Next.js, Tailwind CSS  
+**Frontend:** React, Next.js, Vite, Tailwind CSS, React Flow  
 **Backend:** Node.js, NestJS, SpringBoot  
 **Bases de datos:** PostgreSQL, MySQL, Sequelize, Prisma  
+**Automatización:** n8n  
+**IA y Voz:** Retell AI  
+**Telefonía:** Zadarma  
 **Otros:** Socket.IO, Firebase, Stripe, PDFKit, Git
 
 ---
@@ -36,6 +41,7 @@
 ## 📂 Proyectos
 - 🏠 [HelloFlatmate](http://www.helloflatmate.com/) – Gestión de alquileres, chat en tiempo real y documentos.  
 - 🚐 [Viaje Seguro](https://viajeseguro.site/) – Reservas online y paneles de gestión.  
+- 🤖 Nexiafy – Plataforma de agentes IA, telefonía y automatización (en producción).  
 - 💳 Billetera Virtual – API con MercadoPago (backend).  
 - 👕 Tienda Online – Java + SpringBoot + Vue.js + PostgreSQL.  
 - 🌐 [Portafolio](https://dario-benitez-dev.vercel.app/) – Mi sitio personal.
@@ -43,7 +49,6 @@
 ---
 
 ## 📊 Lenguajes y Commits 
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDarioBenitez&layout=compact&theme=radical&langs_count=8" alt="Lenguajes más usados" />
